@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @jainam-ranka
-- 👀 I’m interested in becoming an indiehacker
-- 🌱 I’m currently working with react and node.js
-- 💞️ I’m looking to collaborate on my projects
-- ⚡ Fun fact: i like tabletennis
